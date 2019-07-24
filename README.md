@@ -1,2 +1,4 @@
-# pystudent
-This is a repository where I store programs I have written within my courses.
+# Archive
+
+This repository contains an unrelated collection of short programs I had written in my Sophomore year of college. 
+I didn't want to delete this work, so I will be archiving it here instead.
