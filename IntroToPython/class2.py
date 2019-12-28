@@ -1,10 +1,9 @@
-#!/usr/bin/python3
 
 """ This is a program that will print a box around any string that is less than 80 characters."""
 
 
 def border_box():
-    string = input(str())
+    string = input("Enter a string")
     blank = len(string) * " "
     line = len(string) * "-"
     side = '|'
@@ -16,5 +15,6 @@ def border_box():
         print("{}{}{}".format('+', line, '+'))
     else:
         print('String is too long')
+
+
 border_box()
-        
